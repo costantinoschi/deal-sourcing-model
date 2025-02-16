@@ -80,15 +80,11 @@ The `scorer.py` script ranks companies based on predefined criteria and saves th
 ## Interactive Dashboard
 The `dashboard.py` script provides an interactive dashboard using Streamlit. Run it with:
 
-bash
-Copy
 `streamlit run src/dashboard.py`
 
 ## Flask App
 The `app.py` script deploys the dashboard as a web application using Flask. Run it with:
 
-bash
-Copy
 `python src/app.py`
 
 ## Dependencies
