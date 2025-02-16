@@ -1,0 +1,11 @@
+# Python dependencies
+pandas
+numpy
+beautifulsoup4
+requests
+scrapy
+spacy
+dash
+streamlit
+flask
+python-dotenv

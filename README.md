@@ -128,4 +128,4 @@ For questions or feedback, please contact:
 
 **Email**: cachiamba@gmail.com
 
-**GitHub**: costantinoschi# deal-sourcing-model
+**GitHub**: costantinoschi
