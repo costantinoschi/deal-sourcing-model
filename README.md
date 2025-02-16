@@ -45,6 +45,7 @@ To set up the project, follow these steps:
         `python src/app.py`
 
 ## Project Structure
+<pre>
 deal-sourcing-model/
 │
 ├── data/                   # Folder for storing raw and processed data
@@ -63,6 +64,7 @@ deal-sourcing-model/
 ├── .gitignore              # Files to ignore in Git
 ├── README.md               # Project documentation
 └── requirements.txt        # Python dependencies
+</pre>
 
 # Usage
 
@@ -93,16 +95,16 @@ Copy
 
 The project relies on the following Python libraries:
 
-### Pandas: Data manipulation and analysis.
-### NumPy: Numerical computations.
-### BeautifulSoup4: Web scraping.
-### Requests: HTTP requests.
-### Scrapy: Advanced web scraping.
-### SpaCy: Natural language processing.
-### Dash: Interactive web applications.
-### Streamlit: Rapid dashboard development.
-### Flask: Web application framework.
-### python-dotenv: Environment variable management.
+### `Pandas`: Data manipulation and analysis.
+### `NumPy`: Numerical computations.
+### `BeautifulSoup4`: Web scraping.
+### `Requests`: HTTP requests.
+### `Scrapy`: Advanced web scraping.
+### `SpaCy`: Natural language processing.
+### `Dash`: Interactive web applications.
+### `Streamlit`: Rapid dashboard development.
+### `Flask`: Web application framework.
+### `python-dotenv`: Environment variable management.
 
 ## Contributing
 
